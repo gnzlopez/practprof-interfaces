@@ -1,0 +1,8 @@
+.portrait {
+    background-image: url("../images/bg-init.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #441f1f;
+    height: 600px;
+    padding-top: 100px;
+}
